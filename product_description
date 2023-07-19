@@ -1,0 +1,39 @@
+13 cm (5.4-inch) Super Retina XDR display Cinematic mode adds shallow depth of field and shifts focus automatically in your video Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording A15 Bionic chip for lightning-fast performance
+
+Split Ac With Inverter Compressor: Variable Speed Compressor Which Adjusts Power Depending On Heat Load |With AI Convertible 6-in-1 user gets a flexibility to increase or decrease cooling capacity as per requirements. Capacity: 1.5 Ton Suitable for medium sized rooms (151 to 180 sq ft.); 441/1236 (In/Out) CFM Air Circulation & Ambient Temperature: 52 degree Celsius with 2 way air swing. Energy Rating : 3 Star - Energy efficiency | Annual Energy Consumption: 968.04 Units Per Year| ISEER Value: 4.0 (Please Refer Energy Label On Product Page Or Contact Brand For More Details) " :en_IN, value:Manufacturer Warranty
+
+
+1.75 inches HD display with a square dial features a complete capacitive touch experience to let you take control effortlessly.;With its high end and accurate apollo 3 blue plus processor the transitions and UI will be smoother and better than anything you have ever experienced.Bluetooth Version 5.0. The fast charging watch lets you take complete control of your time!;Slim premium metal design, and multiple watch faces with customizable options help match your OOTD, every day! The watch comes with a 24x7 heart rate & SpO2 monitor (blood oxygen levels,) and sleep monitoring features to keep a tab on your overall health.;Its multiple sports modes, daily activity tracker and 3 ATM dust, splash and sweat resistance makes it the perfect fitness companion to have for all moods and weathers.Receive all your important notifications right on your watch with the ease of quick replies, without taking out your phone.;The music and camera control of the watch lets you seize every moment of the day seamlessly.; 1 year warranty from the date of purchase. Band Material Type: Silicone; Item Type Name: Smartwatch; Included Components: Watch Blaze; Connectivity Technology: Bluetooth Supported Applications- HR, SpO2, Fitness Tracker, Messages, Pedometer, Calendar, Alarm. Note: HR and SpO2 readings are not for medical usage. Battery: Lasts upto 7 Days. Microphone: No Inclusions- Watch Blaze , USB Magnetic Charging Cable, User Manual & Warranty Card
+
+
+
+
+
+
+
+
+
+
+
+
+ # def generate_product_keys(self, product_type):
+        
+    #     review_template = '''f"Write the possible keywords for the specifications of the given product type: {text}
+    #     '''
+    #     prompt_template = ChatPromptTemplate.from_template(review_template)
+    #     messages = prompt_template.format_messages(text=product_type)
+    #     chat = ChatOpenAI(temperature=0.0, engine="GPT3-5")
+    #     response = chat(messages)
+    #     global result
+    #     result= response.content
+
+    # def generate_filled_description(self, product_description, possible_keys):
+    #     # Combine the product description and generated keys in a prompt
+    #     review_template2 = '''f"For the keywords generated{possible_keys}, find their values in the provided product_description, if any value is not there just print none. Print the output in dictionary structure that is keyword and its value: {text}
+    #     '''
+    #     prompt_template = ChatPromptTemplate.from_template(review_template2)
+    #     messages = prompt_template.format_messages(text=product_description)
+    #     chat = ChatOpenAI(temperature=0.0, engine="GPT3-5")
+    #     response = chat(messages)
+    #     print(response.content)
+     
