@@ -16,24 +16,3 @@ Split Ac With Inverter Compressor: Variable Speed Compressor Which Adjusts Power
 
 
 
- # def generate_product_keys(self, product_type):
-        
-    #     review_template = '''f"Write the possible keywords for the specifications of the given product type: {text}
-    #     '''
-    #     prompt_template = ChatPromptTemplate.from_template(review_template)
-    #     messages = prompt_template.format_messages(text=product_type)
-    #     chat = ChatOpenAI(temperature=0.0, engine="GPT3-5")
-    #     response = chat(messages)
-    #     global result
-    #     result= response.content
-
-    # def generate_filled_description(self, product_description, possible_keys):
-    #     # Combine the product description and generated keys in a prompt
-    #     review_template2 = '''f"For the keywords generated{possible_keys}, find their values in the provided product_description, if any value is not there just print none. Print the output in dictionary structure that is keyword and its value: {text}
-    #     '''
-    #     prompt_template = ChatPromptTemplate.from_template(review_template2)
-    #     messages = prompt_template.format_messages(text=product_description)
-    #     chat = ChatOpenAI(temperature=0.0, engine="GPT3-5")
-    #     response = chat(messages)
-    #     print(response.content)
-     
