@@ -1,0 +1,7 @@
+setup.py
+productspecifications/__init__.py
+productspecifications/productspecifications.py
+productspecifications.egg-info/PKG-INFO
+productspecifications.egg-info/SOURCES.txt
+productspecifications.egg-info/dependency_links.txt
+productspecifications.egg-info/top_level.txt
