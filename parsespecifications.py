@@ -52,7 +52,7 @@ class ProductSpecifications:
         with open(file_path, "w") as file:
             json.dump(specifications, file, indent=4)
 
-        print("Data has been stored in 'data.json'.")
+        print("Data has been stored in 'output.json'.")
         print(type(specifications))
         
 
